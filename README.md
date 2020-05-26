@@ -15,4 +15,6 @@ Sobre quais temas esse curso da plataforma Alura aborda?
 * Faça testes com DataBuilders
 * Testando exceptions
 
-Para saber mais sobre este curso da plataforma da Alura clique [**aqui**](https://cursos.alura.com.br/course/tdd).
+![](https://dkrn4sk0rn31v.cloudfront.net/2019/11/04105020/img-tdd.png)
+
+Para saber mais sobre este curso da plataforma Alura clique [**aqui**](https://cursos.alura.com.br/course/tdd).
