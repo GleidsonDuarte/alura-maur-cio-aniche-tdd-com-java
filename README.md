@@ -2,7 +2,7 @@
 
 Acesse meu LinkedIn clicando [**aqui**](https://www.linkedin.com/in/gleidsonduarte).
 
-Veja o meu certificado de conclusão desse curso clicando [**aqui**](https://cursos.alura.com.br/certificate/gleidsonduarte/tdd).
+Veja o meu certificado de conclusão deste curso clicando [**aqui**](https://cursos.alura.com.br/certificate/gleidsonduarte/tdd).
 
 ## Testes: TDD com Java
 
